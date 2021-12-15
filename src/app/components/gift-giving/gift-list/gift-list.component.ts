@@ -8,7 +8,7 @@ import { GiftListItemModel } from '../../models'
 })
 export class GiftListComponent {
   @Input()
-  giftList: GiftListItemModel[] = []
+  giftList: GiftListItemModel[] | null = []
   markPurchased(item: GiftListItemModel) {
     console.log(`They purchased ${item.description}`)
   }
