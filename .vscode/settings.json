@@ -23,7 +23,7 @@
     }
   ],
   "workbench.colorCustomizations": {
-    "editorIndentGuide.activeBackground": "#ff0000"
+    "editorIndentGuide.activeBackground": "#32b7d8"
   },
   "editor.codeActionsOnSave": {
     "source.organizeImports": false,
@@ -32,7 +32,7 @@
   },
   "typescript.updateImportsOnFileMove.enabled": "always",
   "terminal.integrated.fontFamily": "monospace",
-  "workbench.sideBar.location": "right",
+  //"workbench.sideBar.location": "right",
   "explorer.confirmDelete": false,
   "eslint.quiet": false,
 }
